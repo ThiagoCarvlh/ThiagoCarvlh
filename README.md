@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Thiago Carvalho Rodrigues
 
-**`Desenvolvedor de Software`**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+de+Software)
 
-Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualmente estou cursando Engenharia de Software na FUCAPI (2º período). Sou um desenvolvedor autodidata e proativo, com experiência em desenvolvimento Backend, Frontend e análise de dados. Tenho paixão por resolver problemas através da tecnologia e estou sempre em busca de novos desafios para aplicar meus conhecimentos em Python, JavaScript, C, C++ Java e outras tecnologias.
+Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualmente estou cursando Engenharia de Software na FUCAPI (2º período). Sou um desenvolvedor autodidata e proativo, com experiência em projetos pessoais e certificações em desenvolvimento Backend, Frontend e análise de dados. Tenho paixão por resolver problemas através da tecnologia e estou sempre em busca de novos desafios para aplicar meus conhecimentos em Python, JavaScript, C, Java e outras tecnologias.
 
 ---
 <p align="left">
@@ -13,26 +13,20 @@ Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualment
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=LinkedIn_1400848&logoColor=white&style=for-the-badge"
         />
     </a>
-      <a href="mailto:thiagocarvlh2005@gmail.com">
+    <a href="https://drive.google.com/file/d/17G4EN_YvEyCuDs32RVVZbiWSLBN4Apww/view?usp=sharing">
         <img
-            alt="LinkedIn"
-            title="Me siga no meu LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/EMAIL-red.svg?logo=mail&logoColor=white&style=for-the-badge"
+            alt="Curriculo"
+            title="Baixe meu currículo para mais informações!"
+            src="https://custom-icon-badges.demolab.com/badge/CURRICULO-red.svg?logo=checklist-24&logoColor=white&style=for-the-badge"
+        />
+    <a href="https://contate.me/5592981009911">
+        <img
+            alt="Whatsapp"
+            title="Entre em contato comigo!"
+            src="https://custom-icon-badges.demolab.com/badge/Whatsapp-gre.svg?logo=mail&logoColor=white&style=for-the-badge"
         />
     </a>
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img 
-         alt="followers" 
-         title="Follow me on Github" 
-         src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img 
-         alt="total stars" 
-         title="Total stars on GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
- 
-
+        </p>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -44,21 +38,23 @@ Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="C" 
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://skillicons.dev/icons?i=c" 
+/>
+
+<img 
+    align="left" 
+    alt="C++"
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=cpp" 
 />
 <img 
     align="left" 
@@ -67,14 +63,6 @@ Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualment
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Kotlin"
-    title="Kotlin" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 <img 
     align="left" 
@@ -91,6 +79,14 @@ Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualment
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
@@ -118,40 +114,26 @@ Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualment
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://skillicons.dev/icons?i=linux" 
 />
-<img 
-    align="left" 
-    alt="FastAPI"
-    title="FastAPI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
+
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Tecnologias usadas:
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Thiago-prog-creator&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-prog-creator&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="205" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCarvlh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
