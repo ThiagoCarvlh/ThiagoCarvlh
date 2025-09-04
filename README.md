@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualmente estou cursando Engenharia de Software na FUCAPI (2º período). Sou um desenvolvedor autodidata e proativo, com experiência em desenvolvimento Backend, Frontend e análise de dados. Tenho paixão por resolver problemas através da tecnologia e estou sempre em busca de novos desafios para aplicar meus conhecimentos em Python, JavaScript, C, Java e outras tecnologias.
+Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualmente estou cursando Engenharia de Software na FUCAPI (2º período). Sou um desenvolvedor autodidata e proativo, com experiência em desenvolvimento Backend, Frontend e análise de dados. Tenho paixão por resolver problemas através da tecnologia e estou sempre em busca de novos desafios para aplicar meus conhecimentos em Python, JavaScript, C, C++ Java e outras tecnologias.
 
 ---
 <p align="left">
