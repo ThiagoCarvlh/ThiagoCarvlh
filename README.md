@@ -13,7 +13,7 @@ Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualment
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=LinkedIn_1400848&logoColor=white&style=for-the-badge"
         />
     </a>
-      <a href="thiagocarvlh2005@gmail.com">
+      <a href="mailto:thiagocarvlh2005@gmail.com">
         <img
             alt="LinkedIn"
             title="Me siga no meu LinkedIn"
