@@ -9,7 +9,8 @@ Linguagens: Python, C, C++, Java, JavaScript, HTML, CSS
 
 Ferramentas & DevOps: Git, GitHub, Docker, Linux, Azure
 
-Metodologias: Scrum, Kanban
+Metodologias : Scrum,Kanban
+
 ---
 
 <p align="left">
