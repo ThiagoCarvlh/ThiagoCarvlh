@@ -5,6 +5,7 @@
 Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualmente estou cursando Engenharia de Software na FUCAPI (2º período). Sou um desenvolvedor autodidata e proativo, com experiência em projetos pessoais e certificações em desenvolvimento Backend, Frontend e análise de dados. Tenho paixão por resolver problemas através da tecnologia e estou sempre em busca de novos desafios para aplicar meus conhecimentos em Python, JavaScript, C, Java e outras tecnologias. Deixo meu currículo em anexo para mais informações.
 
 ---
+
 <p align="left">
     <a href="https://www.linkedin.com/in/thiagocarvlh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEleO7%2B25TI2U%2BZx7184YHg%3D%3D">
         <img
@@ -17,7 +18,13 @@ Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualment
         <img
             alt="Curriculo"
             title="Baixe meu currículo para mais informações!"
-            src="https://custom-icon-badges.demolab.com/badge/CURRICULO-red.svg?logo=checklist-24&logoColor=white&style=for-the-badge"
+            src="https://custom-icon-badges.demolab.com/badge/CURRICULO-yellow.svg?logo=checklist-24&logoColor=white&style=for-the-badge"
+        />
+    <a href="mailto:Thiagocarvlh2005@gmail.com?subject=Ol%C3%A1+tudo+bem+?">
+        <img
+            alt="Gmail"
+            title="Você pode entrar em contato comigo por e-mail!"
+            src="https://custom-icon-badges.demolab.com/badge/EMAIL-red.svg?logo=mail&logoColor=white&style=for-the-badge"
         />
     <a href="https://contate.me/5592981009911">
         <img
@@ -121,13 +128,10 @@ Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualment
     src="https://skillicons.dev/icons?i=linux" 
 />
 
-
 <br/>
 <br/>
 
 ### 📊 Tecnologias usadas:
-
-
 
 <img 
       align="left" 
