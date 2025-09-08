@@ -18,7 +18,6 @@ Dados & BI: Power BI, Excel Avançado
 
 Metodologias: Scrum, Kanban
 
-Extras: Shell Script, Sistema Linux, relatórios analíticos, dashboards, comunicação técnica e leitura de documentação em inglês, deixo meu currículo em anexo para mais informações
 ---
 
 <p align="left">
