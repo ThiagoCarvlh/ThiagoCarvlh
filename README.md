@@ -20,12 +20,14 @@ Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualment
             title="Baixe meu currículo para mais informações!"
             src="https://custom-icon-badges.demolab.com/badge/CURRICULO-yellow.svg?logo=checklist-24&logoColor=white&style=for-the-badge"
         />
+    </a>
     <a href="mailto:Thiagocarvlh2005@gmail.com?subject=Ol%C3%A1+tudo+bem+?">
         <img
             alt="Gmail"
             title="Você pode entrar em contato comigo por e-mail!"
             src="https://custom-icon-badges.demolab.com/badge/EMAIL-red.svg?logo=mail&logoColor=white&style=for-the-badge"
         />
+    </a>    
     <a href="https://contate.me/5592981009911">
         <img
             alt="Whatsapp"
@@ -33,7 +35,7 @@ Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualment
             src="https://custom-icon-badges.demolab.com/badge/Whatsapp-gre.svg?logo=mail&logoColor=white&style=for-the-badge"
         />
     </a>
-        </p>
+    </p>
 
 ### 🤖 Linguagens e Tecnologias
 
