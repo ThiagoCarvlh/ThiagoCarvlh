@@ -2,8 +2,23 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+de+Software)
 
-Me chamo Thiago Carvalho Rodrigues, tenho 20 anos e sou de Manaus, AM. Atualmente estou cursando Engenharia de Software na FUCAPI (2º período). Sou um desenvolvedor autodidata e proativo, com experiência em projetos pessoais e certificações em desenvolvimento Backend, Frontend e análise de dados. Tenho paixão por resolver problemas através da tecnologia e estou sempre em busca de novos desafios para aplicar meus conhecimentos em Python, JavaScript, C, Java e outras tecnologias. Deixo meu currículo em anexo para mais informações.
+Sobre mim
 
+Estudante de Engenharia de Software, autodidata e apaixonado por tecnologia. Tenho perfil proativo, facilidade de adaptação a novas linguagens, ferramentas e ambientes, e foco em boas práticas de desenvolvimento. Experiência em desenvolvimento web, sistemas de monitoramento, análise de dados e criação de dashboards estratégicos. Possuo também conhecimentos em inglês técnico para leitura de documentação.
+
+Skills
+
+Linguagens: Python, C, C++, Java, JavaScript, HTML, CSS
+
+Banco de Dados: SQLite, MySQL, PostgreSQL
+
+Ferramentas & DevOps: Git, GitHub, Docker, Linux, Azure
+
+Dados & BI: Power BI, Excel Avançado
+
+Metodologias: Scrum, Kanban
+
+Extras: Shell Script, Sistema Linux, relatórios analíticos, dashboards, comunicação técnica e leitura de documentação em inglês, deixo meu currículo em anexo para mais informações
 ---
 
 <p align="left">
