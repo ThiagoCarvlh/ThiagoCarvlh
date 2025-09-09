@@ -120,13 +120,22 @@ Metodologias : Scrum,Kanban
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="SQLite"
-    title="SQLite" 
+    alt="Power BI"
+    title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
+/>
+<img 
+    align="left" 
+    alt="Azure"
+    title="Azure" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" 
 />
 <img 
     align="left" 
