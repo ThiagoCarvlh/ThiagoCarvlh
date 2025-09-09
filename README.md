@@ -2,7 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+de+Software)
 
-Estudante de Engenharia de Software da Faculdade Fucapi Manaus/AM, sou autodidata e apaixonado por tecnologia. Tenho perfil proativo, facilidade de adaptação a novas linguagens, ferramentas e ambientes, e foco em boas práticas de desenvolvimento. Experiência em desenvolvimento web, sistemas de monitoramento, análise de dados e criação de dashboards estratégicos comprovada na minha experiência profissional. Possuo também conhecimentos em inglês técnico para leitura de documentação. Mais detalhes sobre minha experiência profissional e cursos podem ser encontrados no meu currículo.
+Estudante de Engenharia de Software apaixonado por tecnologia. 
+Experiência em Python, JavaScript, Git e metodologias ágeis. 
+
+Skills: Python, JavaScript, Git, Docker, Linux
 
 Skills
 Linguagens: Python, C, C++, Java, JavaScript, HTML, CSS
@@ -21,7 +24,7 @@ Metodologias : Scrum,Kanban
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=LinkedIn_1400848&logoColor=white&style=for-the-badge"
         />
     </a>
-    <a href="https://drive.google.com/file/d/17G4EN_YvEyCuDs32RVVZbiWSLBN4Apww/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1O81FAYAWy1nLwoIu-yJFWaumYgIlp-5i/view?usp=sharing">
         <img
             alt="Curriculo"
             title="Baixe meu currículo para mais informações!"
