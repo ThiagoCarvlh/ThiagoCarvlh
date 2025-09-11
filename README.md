@@ -23,7 +23,7 @@ Metodologias : Scrum,Kanban
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=LinkedIn_1400848&logoColor=white&style=for-the-badge"
         />
     </a>
-    <a href="https://drive.google.com/file/d/1O81FAYAWy1nLwoIu-yJFWaumYgIlp-5i/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1HDSUPavULqhtq6duNZjVvpkaLKZJgFj9/view?usp=sharing">
         <img
             alt="Curriculo"
             title="Baixe meu currículo para mais informações!"
