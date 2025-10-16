@@ -7,7 +7,7 @@ Estudante de Engenharia de Software apaixonado por tecnologia em Python, JavaScr
 Skills: Python, JavaScript, Git, Docker, Linux
 
 Skills
-Linguagens que estou estudando : Python, C, C++, JavaScript, HTML, CSS
+Linguagens que estou estudando : Python, C++, JavaScript, Html,css
 
 Ferramentas & DevOps: Git, GitHub, Docker, Linux
 
