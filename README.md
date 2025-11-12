@@ -122,27 +122,6 @@ Estudante de Engenharia de Software apaixonado por tecnologia em Python, JavaScr
 
 ## 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-    <a href="https://github.com/ThiagoCarvlh">
-        <img
-            alt="GitHub Stats"
-            height="200"
-            style="padding-right:10px;"
-            src="https://github-readme-stats.vercel.app/api?username=ThiagoCarvlh&show_icons=true&theme=tokyonight&locale=pt-br&v=1"
-        />
-    </a>
-    <a href="https://github.com/ThiagoCarvlh">
-        <img 
-            height="200"
-            style="padding-right:10px;"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoCarvlh&theme=tokyonight&locale=pt_BR" 
-            alt="Sequência de Contribuições do Thiago"
-        />
-    </a>
-    <img 
-        alt="Linguagens" 
-        height="200" 
-        style="padding-right:10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCarvlh&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
-    />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ThiagoCarvlh&show_icons=true&theme=tokyonight&locale=pt-br&v=1)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoCarvlh&theme=tokyonight&locale=pt_BR)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCarvlh&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9)
