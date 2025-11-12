@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Thiago Carvalho Rodrigues
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+Software)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+de+Software)
 
 Estudante de Engenharia de Software apaixonado por tecnologia em Python, JavaScript, Git e metodologias ágeis. 
 
