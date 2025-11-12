@@ -126,6 +126,8 @@ Linux
 <br/>
 <br/>
 
+___
+
 ### 📊 Minhas Estatísticas no GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=ThiagoCarvlh&show_icons=true&theme=tokyonight&locale=pt-br&v=1)<br/>
