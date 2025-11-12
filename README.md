@@ -8,11 +8,12 @@ Tenho experiência com **Python**, **C++** e **JavaScript**, aplicando boas prá
 💡 Busco constantemente aprimorar minhas habilidades técnicas e de design de software, explorando do **backend ao front-end** para entregar código limpo, funcional e bem estruturado.
 
 ---
+### 🧠 Skills
+- **Linguagens:** Python, C++, JavaScript, HTML, CSS  
+- **Ferramentas & DevOps:** Git, GitHub, Docker,
+Linux  
+- **Metodologias:** Scrum, Kanban
 
-### Skills
-* **Linguagens:** Python, C++, JavaScript, Html, css
-* **Ferramentas & DevOps:** Git, GitHub, Docker, Linux
-* **Metodologias:** Scrum, Kanban
 
 ---
 <p align="left">
@@ -125,7 +126,7 @@ Tenho experiência com **Python**, **C++** e **JavaScript**, aplicando boas prá
 <br/>
 <br/>
 
-## 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=ThiagoCarvlh&show_icons=true&theme=tokyonight&locale=pt-br&v=1)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoCarvlh&theme=tokyonight&locale=pt_BR)<br/>
