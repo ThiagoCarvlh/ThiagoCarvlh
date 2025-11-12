@@ -2,10 +2,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+de+Software)
 
-🎓 Estudante de Engenharia de Software com foco em desenvolvimento de soluções eficientes e escaláveis.
-Tenho experiência com Python, C++ e JavaScript, aplicando boas práticas de versionamento com Git e metodologias ágeis como Scrum e Kanban.
+🎓 Estudante de **Engenharia de Software** com foco em desenvolver soluções eficientes e escaláveis.  
+Tenho experiência com **Python**, **C++** e **JavaScript**, aplicando boas práticas de versionamento com **Git** e metodologias **ágeis** como *Scrum* e *Kanban*.  
 
-Busco constantemente aprimorar minhas habilidades técnicas e de design de software, explorando do backend ao front-end para entregar código limpo, funcional e bem estruturado.
+💡 Busco constantemente aprimorar minhas habilidades técnicas e de design de software, explorando do **backend ao front-end** para entregar código limpo, funcional e bem estruturado.
+
+---
 
 ### Skills
 * **Linguagens:** Python, C++, JavaScript, Html, css
