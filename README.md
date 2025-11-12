@@ -4,17 +4,12 @@
 
 Estudante de Engenharia de Software apaixonado por tecnologia em Python, JavaScript, Git e metodologias ágeis. 
 
-Skills: Python, JavaScript, Git, Docker, Linux
-
-Skills
-Linguagens que estou estudando : Python, C++, JavaScript, Html,css
-
-Ferramentas & DevOps: Git, GitHub, Docker, Linux
-
-Metodologias : Scrum,Kanban
+### Skills
+* **Linguagens:** Python, C++, JavaScript, Html, css
+* **Ferramentas & DevOps:** Git, GitHub, Docker, Linux
+* **Metodologias:** Scrum, Kanban
 
 ---
-
 <p align="left">
     <a href="https://www.linkedin.com/in/thiagocarvlh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEleO7%2B25TI2U%2BZx7184YHg%3D%3D">
         <img
@@ -125,20 +120,29 @@ Metodologias : Scrum,Kanban
 <br/>
 <br/>
 
-### 📊 Tecnologias usadas:
+## 📊 Minhas Estatísticas no GitHub
 
-<img
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right:10px;"
-  src="https://github-readme-stats.vercel.app/api?username=ThiagoCarvlh&show_icons=true&theme=tokyonight&locale=pt-br&v=1"
-/>
-
-  
-  <img 
-    align="left" 
-    alt="Most Used Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCarvlh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="center">
+    <a href="https://github.com/ThiagoCarvlh">
+        <img
+            alt="GitHub Stats"
+            height="200"
+            style="padding-right:10px;"
+            src="https://github-readme-stats.vercel.app/api?username=ThiagoCarvlh&show_icons=true&theme=tokyonight&locale=pt-br&v=1"
+        />
+    </a>
+    <a href="https://github.com/ThiagoCarvlh">
+        <img 
+            height="200"
+            style="padding-right:10px;"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoCarvlh&theme=tokyonight&locale=pt_BR" 
+            alt="Sequência de Contribuições do Thiago"
+        />
+    </a>
+    <img 
+        alt="Linguagens" 
+        height="200" 
+        style="padding-right:10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCarvlh&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+    />
 </p>
