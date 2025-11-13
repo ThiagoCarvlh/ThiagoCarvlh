@@ -15,7 +15,11 @@ Linux
 - **Metodologias:** Scrum, Kanban
 
 
+
 ---
+
+### 📫 Entre em Contato
+
 <p align="left">
     <a href="https://www.linkedin.com/in/thiagocarvlh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEleO7%2B25TI2U%2BZx7184YHg%3D%3D">
         <img
@@ -46,6 +50,8 @@ Linux
         />
     </a>
     </p>
+    
+---
 
 ### 🤖 Linguagens e Tecnologias
 
