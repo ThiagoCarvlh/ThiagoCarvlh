@@ -25,8 +25,8 @@
 
 Focado em:
 
-- **Backend Development **
-- **Aplicações Desktop **
+- **Backend Development**
+- **Aplicações Desktop**
 - **Web Development**
 
 Busco escrever código limpo e escalável, aplicando boas práticas com Git e metodologias ágeis (**Scrum/Kanban**), sempre com foco em resolver problemas reais.
