@@ -58,9 +58,9 @@ Busco escrever código limpo e escalável, aplicando boas práticas com Git e me
   Sistema em **C++/Qt** para automatizar notas em eventos acadêmicos, com cadastro de projetos, avaliadores e geração de resultados em arquivo.  
   `C++` `Qt` `Desktop`
 
-- 🧩 **[Gerador_QRCode](https://github.com/ThiagoCarvlh/Gerador_QRCode)**  
-  Ferramenta em **Python** para gerar QR Codes de links via linha de comando, com opção de salvar as imagens e foco em boas práticas de organização de código.  
-  `Python` `CLI`
+- 🛒 **[Sistema_de_checkout_POO](https://github.com/ThiagoCarvlh/Sistema_de_checkout_POO)**  
+  Projeto em **Python** que simula o fluxo de checkout de uma loja, aplicando os princípios de Programação Orientada a Objetos em classes como produtos, carrinho e pagamento.  
+  `Python` `POO`
 
 ---
 
@@ -125,7 +125,7 @@ I care about clean and maintainable code, Git best practices and agile workflows
 
 - **[AvaliaEncoeng](https://github.com/ThiagoCarvlh/AvaliaEncoeng)** – Desktop system built with **C++/Qt** to manage academic events and automate project grading.
 
-- **[Gerador_QRCode](https://github.com/ThiagoCarvlh/Gerador_QRCode)** – **Python** CLI tool to generate and save QR Codes from URLs, with focus on clean code and structure.
+- **[Sistema_de_checkout_POO](https://github.com/ThiagoCarvlh/Sistema_de_checkout_POO)** – **Python** project that simulates a store checkout flow, applying Object-Oriented Programming principles to products, cart and payment logic.
 
 ---
 
@@ -136,10 +136,5 @@ I care about clean and maintainable code, Git best practices and agile workflows
 You can reach me via **[LinkedIn](https://www.linkedin.com/in/thiagocarvlh)**, **[Email](mailto:Thiagocarvlh2005@gmail.com)** or **[WhatsApp](https://contate.me/5592981009911)**.
 
 </div>
-
----
-
-
-
 
 </details>
