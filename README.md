@@ -1,141 +1,145 @@
-# 👨🏻‍💻 Thiago Carvalho Rodrigues
+# 👨🏻‍💻 Thiago Carvalho Rodrigues  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+de+Software)
+> 🇧🇷 Português | [🇺🇸 English](#english-version)
 
-🎓 Estudante de **Engenharia de Software** com foco em desenvolver soluções eficientes e escaláveis.  
-Tenho experiência com **Python**, **C++** e **JavaScript**, aplicando boas práticas de versionamento com **Git** e metodologias **ágeis** como *Scrum* e *Kanban*.  
-
-💡 Busco constantemente aprimorar minhas habilidades técnicas e de design de software, explorando do **backend ao front-end** para entregar código limpo, funcional e bem estruturado.
-
----
-### 🧠 Skills
-- **Linguagens:** Python, C++, JavaScript, HTML, CSS  
-- **Ferramentas & DevOps:** Git, GitHub, Docker,
-Linux  
-- **Metodologias:** Scrum, Kanban
-
-
-
----
-
-### 📫 Entre em Contato
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/thiagocarvlh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEleO7%2B25TI2U%2BZx7184YHg%3D%3D">
-        <img
-            alt="LinkedIn"
-            title="Me siga no meu LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=LinkedIn_1400848&logoColor=white&style=for-the-badge"
-        />
+<div align="left">
+    <a href="https://www.linkedin.com/in/thiagocarvlh">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://drive.google.com/file/d/1HDSUPavULqhtq6duNZjVvpkaLKZJgFj9/view?usp=sharing">
-        <img
-            alt="Curriculo"
-            title="Baixe meu currículo para mais informações!"
-            src="https://custom-icon-badges.demolab.com/badge/CURRICULO-yellow.svg?logo=checklist-24&logoColor=white&style=for-the-badge"
-        />
+        <img alt="Curriculo" src="https://img.shields.io/badge/CURRÍCULO-FFD700?style=for-the-badge&logo=googledrive&logoColor=black"/>
     </a>
-    <a href="mailto:Thiagocarvlh2005@gmail.com?subject=Ol%C3%A1+tudo+bem+?">
-        <img
-            alt="Gmail"
-            title="Você pode entrar em contato comigo por e-mail!"
-            src="https://custom-icon-badges.demolab.com/badge/EMAIL-red.svg?logo=mail&logoColor=white&style=for-the-badge"
-        />
+    <a href="mailto:Thiagocarvlh2005@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>    
     <a href="https://contate.me/5592981009911">
-        <img
-            alt="Whatsapp"
-            title="Entre em contato comigo!"
-            src="https://custom-icon-badges.demolab.com/badge/Whatsapp-gre.svg?logo=mail&logoColor=white&style=for-the-badge"
-        />
+        <img alt="Whatsapp" src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
-    </p>
-    
+</div>
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+##  Sobre Mim
 
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=cpp" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+🎓 Estudante de **Engenharia de Software** | Manaus, AM  
 
-<img 
-    align="left" 
-    alt="Power BI"
-    title="Power BI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
-/>
-<img 
-    align="left" 
-    alt="Azure"
-    title="Azure" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=linux" 
-/>
+Focado em:
 
-<br/>
-<br/>
+- **Backend Development (Python)**
+- **Aplicações Desktop (C++/Qt)**
+- **Web Development**
 
-___
+Busco escrever código limpo e escalável, aplicando boas práticas com Git e metodologias ágeis (**Scrum/Kanban**), sempre com foco em resolver problemas reais.
 
-### 📊 Minhas Estatísticas no GitHub
+---
 
-![](https://github-readme-stats.vercel.app/api?username=ThiagoCarvlh&show_icons=true&theme=tokyonight&locale=pt-br&v=1)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoCarvlh&theme=tokyonight&locale=pt_BR)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCarvlh&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9)
+##  Tecnologias
+
+**Linguagens**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+##  Projetos em Destaque
+
+- 🎓 **[AvaliaEncoeng](https://github.com/ThiagoCarvlh/AvaliaEncoeng)**  
+  Sistema em **C++/Qt** para automatizar notas em eventos acadêmicos, com cadastro de projetos, avaliadores e geração de resultados em arquivo.  
+  `C++` `Qt` `Desktop`
+
+- 🧩 **[Gerador_QRCode](https://github.com/ThiagoCarvlh/Gerador_QRCode)**  
+  Ferramenta em **Python** para gerar QR Codes de links via linha de comando, com opção de salvar as imagens e foco em boas práticas de organização de código.  
+  `Python` `CLI`
+
+---
+
+##  GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoCarvlh&show_icons=true&theme=tokyonight&locale=pt-br)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCarvlh&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9)
+
+</div>
+
+---
+
+##  Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagocarvlh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Thiagocarvlh2005@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/5592981009911)
+
+</div>
+
+---
+
+## 🇺🇸 English Version
+
+<details>
+  <summary>Click to expand</summary>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Software+Engineering+Student;Backend+Developer;C%2B%2B+%7C+Python+%7C+JavaScript)
+
+</div>
+
+###  About Me
+
+🎓 **Software Engineering student** based in Manaus, Brazil.  
+
+I'm focused on:
+
+- **Backend Development (Python)**
+- **Desktop Applications (C++/Qt)**
+- **Web Development**
+
+I care about clean and maintainable code, Git best practices and agile workflows (Scrum/Kanban).
+
+---
+
+###  Tech Stack
+
+**Languages:** Python • C++ • JavaScript • HTML5 • CSS3  
+**Tools:** Git • GitHub • Docker • MySQL • Linux • Power BI  
+**Methods:** Scrum • Kanban
+
+---
+
+###  Highlight Projects
+
+- **[AvaliaEncoeng](https://github.com/ThiagoCarvlh/AvaliaEncoeng)** – Desktop system built with **C++/Qt** to manage academic events and automate project grading.
+
+- **[Gerador_QRCode](https://github.com/ThiagoCarvlh/Gerador_QRCode)** – **Python** CLI tool to generate and save QR Codes from URLs, with focus on clean code and structure.
+
+---
+
+###  Contact
+
+<div align="center">
+
+You can reach me via **[LinkedIn](https://www.linkedin.com/in/thiagocarvlh)**, **[Email](mailto:Thiagocarvlh2005@gmail.com)** or **[WhatsApp](https://contate.me/5592981009911)**.
+
+</div>
+
+---
+
+
+
+
+</details>
