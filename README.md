@@ -64,17 +64,6 @@ Busco escrever código limpo e escalável, aplicando boas práticas com Git e me
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoCarvlh&show_icons=true&theme=tokyonight&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCarvlh&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9)
-
-</div>
-
----
 
 ##  Contato
 
