@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/thiagocarvlh">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://drive.google.com/file/d/1HDSUPavULqhtq6duNZjVvpkaLKZJgFj9/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1HfW2l6SqivXDtKV_ZoW9LDyLy-ST3Nfa/view?usp=sharing">
         <img alt="Curriculo" src="https://img.shields.io/badge/CURRÍCULO-FFD700?style=for-the-badge&logo=googledrive&logoColor=black"/>
     </a>
     <a href="mailto:Thiagocarvlh2005@gmail.com">
