@@ -21,7 +21,7 @@
 
 ##  Sobre Mim
 
-🎓 Estudante de **Engenharia de Software** da faculdade **FUCAPI** cursando o 3º período | Manaus, AM  
+🎓 Estudante de **Engenharia de Software** da faculdade **FUCAPI** cursando o 4º período | Manaus, AM  
 
 Focado em:
 
